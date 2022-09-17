@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://rithymeth.github.io/csb-juyei9/static/js/main.83a16ac4.chunk.js",
-    "main.js.map": "https://rithymeth.github.io/csb-juyei9/static/js/main.83a16ac4.chunk.js.map",
+    "main.js": "https://rithymeth.github.io/csb-juyei9/static/js/main.199f8dab.chunk.js",
+    "main.js.map": "https://rithymeth.github.io/csb-juyei9/static/js/main.199f8dab.chunk.js.map",
     "runtime-main.js": "https://rithymeth.github.io/csb-juyei9/static/js/runtime-main.0761a1b9.js",
     "runtime-main.js.map": "https://rithymeth.github.io/csb-juyei9/static/js/runtime-main.0761a1b9.js.map",
     "static/js/2.72b2628c.chunk.js": "https://rithymeth.github.io/csb-juyei9/static/js/2.72b2628c.chunk.js",
     "static/js/2.72b2628c.chunk.js.map": "https://rithymeth.github.io/csb-juyei9/static/js/2.72b2628c.chunk.js.map",
     "index.html": "https://rithymeth.github.io/csb-juyei9/index.html",
-    "precache-manifest.c9c0865ea22f81623199ba20731221a7.js": "https://rithymeth.github.io/csb-juyei9/precache-manifest.c9c0865ea22f81623199ba20731221a7.js",
+    "precache-manifest.50513bd6530259ac5c03231af6c61f88.js": "https://rithymeth.github.io/csb-juyei9/precache-manifest.50513bd6530259ac5c03231af6c61f88.js",
     "service-worker.js": "https://rithymeth.github.io/csb-juyei9/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.0761a1b9.js",
     "static/js/2.72b2628c.chunk.js",
-    "static/js/main.83a16ac4.chunk.js"
+    "static/js/main.199f8dab.chunk.js"
   ]
 }
