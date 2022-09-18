@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://rithymeth.github.io/csb-juyei9/precache-manifest.50513bd6530259ac5c03231af6c61f88.js"
+  "https://rithymeth.github.io/csb-juyei9/precache-manifest.4069755c78ebf7e4ba8c4315a67aee81.js"
 );
 
 self.addEventListener('message', (event) => {

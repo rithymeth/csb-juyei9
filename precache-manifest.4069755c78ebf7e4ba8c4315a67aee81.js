@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fbcc66b31c2aaa1a53ed560757e197a",
+    "revision": "de1a518fbfbb9b9ed09de39b8c0cc9fb",
     "url": "https://rithymeth.github.io/csb-juyei9/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://rithymeth.github.io/csb-juyei9/static/js/2.72b2628c.chunk.js"
   },
   {
-    "revision": "ec40f73d6b4d722924c8",
-    "url": "https://rithymeth.github.io/csb-juyei9/static/js/main.199f8dab.chunk.js"
+    "revision": "49ddf8e620ebff0280ed",
+    "url": "https://rithymeth.github.io/csb-juyei9/static/js/main.10967ef5.chunk.js"
   },
   {
     "revision": "be74a8c037d863b8689b",
